@@ -1,6 +1,10 @@
 # _Curriculum vitae_
 ## Yaroslav Ruban
 #### +79825368044, e-mail: yaroslavruban@mail.ru
+
+![ruban_brave](https://user-images.githubusercontent.com/85696919/129444994-87baad32-ffd4-4c56-bdea-78ac26e4e1ee.jpg)
+
+
 __Goal:__ Get a job frontend developer.
 
 __Strengths:__ purposeful, charismatic, responsible.
